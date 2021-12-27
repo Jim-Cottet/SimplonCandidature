@@ -1,24 +1,43 @@
 <template>
   <div id="app">
-    <div class="bg-indigo-600" id="nav">
-      <div class="max-w-7xl mx-auto">
-        <div class="flex justify-between">
+    <div class="bg-indigo-600 font-mono" id="nav">
+      <div class=" mx-auto">
+        <div class="flex justify-between ml-0">
           <!-- Menu -->
           <div>
             <!-- Logo -->
-            
+           <div class="flex items-center py-5 px-4">
+              <svg 
+              xmlns="http://www.w3.org/2000/svg" 
+              class="h-12 w-12 text-white" 
+              fill="none" 
+              viewBox="0 0 24 24" 
+              stroke="currentColor">
+              <path 
+              stroke-linecap="round" 
+              stroke-linejoin="round" 
+              stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
+            </svg>
+              <!-- Title -->
+                <h1 class="text-4xl text-white ml-2">Puzzle</h1>
+              <!-- Menu -->
+              <div class="ml-10 text-white ">
+                <router-link class="text-xl hover:text-2xl" to="/">Home</router-link> |
+                <router-link class="text-xl hover:text-2xl" to="/about">About</router-link> |
+                <router-link class="text-xl hover:text-2xl" to="/">Box</router-link> 
+              </div>
+           </div>
           </div>
-          <!-- Login -->
-          <div></div>
+          <!-- Login --> 
+          <div class="flex justify-between items-center text-white mr-5 py-5 px-4">
+            <router-link class=" mx-2 text-xl hover:text-lg" to="/login">Login</router-link> |
+            <router-link class="mx-2 text-xl hover:text-lg" to="/register">Register</router-link> 
+          </div>
           <!-- Button show mobile menu -->
-          <div></div>
+          <div class="md:hidden"></div>
         </div>
       </div>
     </div>
     <router-view class=""/>
   </div>
 </template>
-
-        <router-link class="text-2xl hover:text-xl" to="/">Home</router-link> |
-        <router-link class="text-2xl hover:text-xl" to="/about">About</router-link> |
-        <router-link class="text-2xl hover:text-xl" to="/other">Box</router-link> 

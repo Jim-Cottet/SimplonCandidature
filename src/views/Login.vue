@@ -1,7 +1,9 @@
 <template>
-    <div class=" flex content-center justify-center items-center h-full">
+ 
 
-        <div class=" font-mono mt-20 md:mt-40 bg-white drop-shadow-md max-w-lg md:flex">
+    <div class=" flex content-center justify-center items-center md:mt-20 py-20">
+
+        <div class=" font-mono bg-slate-50 drop-shadow-md max-w-lg md:flex">
         
         <img 
             class="flex-1 w-full md:h-full h-40 object-cover shadow-md" 
@@ -12,13 +14,13 @@
         
         <div class="p-4 text-center">
             
-            <h1 class="flex-1 text-2xl py-5 font-bold underline underline-offset-8">Boite de Connexion</h1>
+            <h1 class="flex-1 text-2xl py-5 font-bold underline underline-offset-8">Login Box</h1>
             
             <div class="m-4">
                
                 <label 
                     class="block text-gray-600 my-2"
-                    for="username">Nom d'utilsateur </label>
+                    for="username">username</label>
                 
                 <input 
                     class="border border-grey-300 shadow-inner p-2 text-gray-700 w-full focus:shadow-lg" 
@@ -28,7 +30,7 @@
                
                 <label 
                     class="block text-gray-600 my-2" 
-                    for="username">Mot de passe </label>
+                    for="username">Password</label>
                
                 <input 
                     class="border border-grey-300 shadow-inner p-2 text-gray-700 w-full focus:shadow-lg" 
@@ -42,7 +44,7 @@
             
             <button 
                 class="my-5 bg-blue-700 text-white py-1.5 px-10 rounded-full hover:bg-blue-400" 
-                type="submit">Entrer</button>
+                type="submit">Log in</button>
         
         </div>
         
@@ -53,6 +55,6 @@
 <script>
 
 export default {
-  name: 'Other'
+  name: 'Login'
 }
 </script>
