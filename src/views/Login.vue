@@ -1,12 +1,12 @@
 <template>
  
 
-    <div class=" flex content-center justify-center items-center md:mt-20 py-20">
+    <div class=" flex content-center justify-center items-center sm:mt-20 py-20">
 
-        <div class=" font-mono bg-slate-50 drop-shadow-md max-w-lg md:flex">
+        <div class=" font-mono bg-slate-50 drop-shadow-md max-w-lg sm:flex">
         
         <img 
-            class="flex-1 w-full md:h-full h-40 object-cover shadow-md" 
+            class="flex-1 w-full sm:h-full h-40 object-cover shadow-md" 
             src="https://picsum.photos/200/370" 
             alt="">
         
