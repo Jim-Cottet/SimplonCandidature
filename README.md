@@ -1,4 +1,3 @@
-# vue-appp
 
 ## Project setup
 ```
