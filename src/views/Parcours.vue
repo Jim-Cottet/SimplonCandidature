@@ -34,11 +34,11 @@
                 Je reviens à Mornant. Durant plus d’un an et demi je ne travail pas. Je profité de cette période d’oisiveté pour lire et apprendre le solfège ainsi que le piano. Puis je trouvé un poste d’employé polyvalent en restauration à mi-temps dans un restaurant tout près de chez moi. J'y travaille pendant plus de quatre ans.
             </p>
             <p class="text-justify mx-3 my-10 text-lg md:text-justify md:mx-10 md:my-10">
-               Suite à une aggravation de mes difficultés psychiques, je décide de quitter ce travail qui, à cause du stress qu’il génère, tend à aggraver mon état.
+               Suite à l'aggravation de mes difficultés psychiques, je décide de quitter ce travail qui, à cause du stress qu’il génère, tend à aggraver mon état.
                 Je quitte l'entreprise en 2020.
             </p>
             <p class="text-justify mx-3 my-10 text-lg md:text-justify md:mx-10 md:my-10">
-               J’entame ensuite un parcours de soins et d’orientation. C’est dans ce contexte que je rejoins 
+               J’entame ensuite un parcours de soins et d’orientation. C’est dans ce contexte que jobtien une RQTH. Je rejoins 
                 le module d’orientation approfondie de LADAPT de Lyon.
             </p>
 

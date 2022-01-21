@@ -31,7 +31,7 @@
                 🌌 J’ai depuis pas mal de temps de l’intérêt pour cette activité. Je l’ai pratiquée en dilettante  pendant quelques années et je souhaite maintenant le faire avec plus de rigueur et de constance afin d’en faire un métier. 
             </p>
             <p class="text-justify mx-3 my-10 text-lg md:text-justify md:mx-10 md:my-10">
-                ☕ Je n’avais jamais pratiqué le Java avant de préparer cette candidature, mais sa découverte lors des exercices sur Sololearn m'a plutôt plu. 
+                ☕ Je n’avais jamais utilisé le Java avant de préparer cette candidature, mais sa découverte lors des exercices sur Sololearn m'a plutôt plu. 
             </p>
             <p class="text-justify mx-3 my-10 text-lg md:text-justify md:mx-10 md:my-10">
                 🪐 Je crois que cette formation pourrait me permettre d’apprendre un langage plus en profondeur, avec plus de régularité et d’acquérir une expérience professionnelle très précieuse. 
